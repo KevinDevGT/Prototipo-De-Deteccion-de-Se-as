@@ -1,0 +1,11 @@
+Hola Inge soy Kevin Esquivel, actualmente me encuentro con el cargo de llevar a cabo con la programcion del la APP, en esta seccion,
+le muestro mi prototipo inicial, en donde en (CPATURA.PNG) muestra la base de datos de imagenes que la misma IA obserava (IMG1),
+entonces la IA ve a traves de la camara y hace una base de datos.
+
+En IMG2,soy yo, todo un papu, jajaj estaba recibiendo su calse.
+
+En IMG3 se puede observa con la IA estudia las imgenes de entrenamiento para luego sometarla a un examen y calificar el % de acertacion.
+
+DE IMG4 a IMG7 es una deteccion en tiempo real donde ya se sabe las vocales.
+
+(ESTE EN EL 25% del proyecto final)
